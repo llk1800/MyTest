@@ -1,3 +1,4 @@
+insert a line
 this is a test
 test MM
 test right M
