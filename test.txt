@@ -1,5 +1,5 @@
 insert a line
-this is a test
+modify a line
 test MM
 test right M
 test ignore
