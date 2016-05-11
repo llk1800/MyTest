@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is a test liulekai001
-=======
 this is a test liulekai002
->>>>>>> ea67ae10153c48cfb6ca8267ec4b0ea9c9ad958a
