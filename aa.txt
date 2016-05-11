@@ -1,3 +1,3 @@
 this is a test
 test reset
-battle
+this is a battle
