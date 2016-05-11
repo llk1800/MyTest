@@ -1,6 +1,6 @@
 this is a test
 i'm here
 test reset
-this is battle
+this is a battle
 test again
 test rebase  modify 
