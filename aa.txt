@@ -1,5 +1,4 @@
 tis is a test
-make other change
-make a fix
-this is branch testing 2
+test reset
+this is a battle
 test rebase  modify 
