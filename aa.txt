@@ -2,4 +2,3 @@ this is a test
 test reset
 test meger
 battle
-test merge
