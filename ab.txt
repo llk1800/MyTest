@@ -2,6 +2,3 @@ test
 test3
 test stash
 new test
-test push
-push test4 to master
-test push
