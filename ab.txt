@@ -5,3 +5,4 @@ new test
 test push
 push test4 to master
 test trace test1
+testing merge branch
