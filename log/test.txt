@@ -1,0 +1,6 @@
+modify a line
+test commit -a
+comfim the comment
+test MM
+test right M
+test ignore
